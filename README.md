@@ -26,8 +26,6 @@ Where is the practical blind spot for real-world PSM deployments?
 
 -------------
 
-***Advisor***       
-This research was conducted under the guidance of Professor Dr. Nirali H. Gondaliya, HoD Physics at SVMIT-Bharuch.                 
 ***Contact***          
 For inquiries about this research (academic collaboration, evaluation, etc.), reach out at [Email](sneha.patel.infosec@gmail.com) or via [LinkedIn](https://www.linkedin.com/in/sneha-patel-infosec/).                     
 ***Citation***             
